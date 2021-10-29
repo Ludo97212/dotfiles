@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ludovic.nourel@gmail.com
+	name = Ludovic Nourel
